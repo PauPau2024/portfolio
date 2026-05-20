@@ -149,7 +149,7 @@ const Hero = () => {
             [View Projects]
           </button>
           <a
-            href="https://drive.google.com/file/d/1your-resume-link/view"
+            href="https://drive.google.com/file/d/1wxDL3u_O92cEErVIHGvQJOWy6Yg0P_eO/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-terminal"

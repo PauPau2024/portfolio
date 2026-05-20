@@ -70,7 +70,7 @@ const AITerminal = () => {
         throw new Error('Puter.js not available');
       }
 
-      const response = await puter.ai.chat(prompt, { model: 'gpt-4o-mini' });
+      const response = await puter.ai.chat(prompt, { model: 'deepseek-chat' });
 
       let text = '';
       if (response?.message?.content) {
